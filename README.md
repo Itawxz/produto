@@ -14,4 +14,5 @@ PUT
 ![image](https://github.com/Itawxz/produto/assets/99768349/72c5b810-89fa-46a0-8ce1-8807c540a62b)
 
 DELETE
-![image](https://github.com/Itawxz/produto/assets/99768349/c77f591c-1fe7-46a0-b8db-8c0e96cca476)
+![image](https://github.com/Itawxz/produto/assets/99768349/1664e287-3472-417a-a0f6-391cdaeff63e)
+
